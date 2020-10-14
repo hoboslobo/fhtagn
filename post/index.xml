@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on FHTAGN FHTAGN FHTAGN</title>
-    <link>http://example.org/post/</link>
+    <link>https://fhtagn.co.uk/post/</link>
     <description>Recent content in Posts on FHTAGN FHTAGN FHTAGN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Oct 2020 11:57:07 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fhtagn.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fhtagn Fhtagn Fhtagn</title>
-      <link>http://example.org/post/fhtagn-fhtagn-fhtagn/</link>
+      <link>https://fhtagn.co.uk/post/fhtagn-fhtagn-fhtagn/</link>
       <pubDate>Wed, 14 Oct 2020 11:57:07 +0100</pubDate>
       
-      <guid>http://example.org/post/fhtagn-fhtagn-fhtagn/</guid>
+      <guid>https://fhtagn.co.uk/post/fhtagn-fhtagn-fhtagn/</guid>
       <description>cthulhu fhtagn </description>
     </item>
     
